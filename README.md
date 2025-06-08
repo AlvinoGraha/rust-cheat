@@ -3,7 +3,7 @@
 #### **Introduction to Rust Cheat**
 Welcome to the world of **Rust Cheat**, the ultimate tool designed to enhance your gaming experience in Rust. Whether you're a seasoned player or just starting out, Rust Cheat offers a suite of powerful features that can give you an edge in the harsh and competitive environment of Rust. This guide will walk you through the main features, advantages, and how to use them effectively.
 
-> ⚠️ [![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+[![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
 [![Rust Cheat](https://github.com/rust-undetected/rust-cheat/blob/main/Rust%20Cheats.jpg)](https://discord.com/servers/elusion-cheats-1174326154207953006) 
 
 ### **Main Features Overview**
