@@ -2,7 +2,7 @@
 
 Welcome to the ultimate educational project for advanced game enhancement: the **Rust Cheat**. This powerful, undetected, and highly optimized toolkit is a full-featured development showcase, demonstrating how cheats interact with protected environments like *Rust*.
 
-> ⚠️ [![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+> [![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
 ---
 > [![Rust Cheat](https://github.com/rust-undetected/rust-cheat/blob/main/Rust%20Cheats.jpg)](https://discord.com/servers/elusion-cheats-1174326154207953006) 
 ---
